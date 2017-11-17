@@ -5,7 +5,8 @@ using namespace std;
 int main() {
 
 	char name[20];
-	cout << "Have a nice day!";
+
+	std::cout << "Hello world! Have a nice day!\n";
 
 	cout << "Enter your name: ";
 
